@@ -1,4 +1,8 @@
 # Business-Proposal-Project
+To look the website full working. Below is the url for the working of the website<br/>
+
+URL: https://business-proposal-project.netlify.app/
+
 <h3>Project setup</h3>
 npm install
 
